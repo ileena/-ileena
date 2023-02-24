@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leena</h1>
 <h3 align="center">I am a software engineering student</h3>
 
-- 🌱 I’m currently learning **vue.js as front end**
+- 🌱 I’m currently learning ** Web daevelopment **
 
 - 👨‍💻 All of my projects are available at [https://github.com/ileena](https://github.com/ileena)
 
-- 💬 Ask me about **Laravel , vue.js**
+- 💬 Ask me about ** Python , C# , ASP .NET Core , Django REST Framework , Web API **
 
 - 📫 How to reach me **eng.leena98@gmail.com**
 
